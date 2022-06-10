@@ -34,7 +34,7 @@ bacaData.readFile(file1,'utf8',(err,data1)) => {
         }
         jsonFile1=JSON.parse(data1);
         jsonFile2=JSON.parse(data2);
-        jsonFile3=JSON.parse(data1); 
+        jsonFile3=JSON.parse(data3); 
 
         console.log(jsonFile1);
         console.log(jsonFile2);
