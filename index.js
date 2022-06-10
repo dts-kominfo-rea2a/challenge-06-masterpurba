@@ -1,4 +1,4 @@
-const { bacaData } = require("./fungsiCustom");
+const { bacaData } = require("./fungsiCustom.js");
 
 // ! JANGAN DIMODIFIKASI
 // main function
